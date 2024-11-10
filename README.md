@@ -50,3 +50,4 @@ CONFIG_CUSTOM_ANIMATION_SPEED=300000 # 300 second total duration
 ## References
 - [Dongle display](https://github.com/englmaxi/zmk-dongle-display) by englmaxi
 - [Hammerbeam slideshow to nice!view](https://github.com/GPeye/hammerbeam-slideshow) by GPeye
+- [Dongle display](https://github.com/williambonfim/zmk-dongle-display)
